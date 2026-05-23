@@ -26,7 +26,7 @@ Senior PHP/1C-Битрикс разработчик. Проектирую backen
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
 - [LMS Manager](https://github.com/murad-it/lms-manager)
 - [BP Migration](https://github.com/murad-it/bp-migration)
-- [Section Export](https://github.com/murad-it/section-export)
+- [Iron Man](https://github.com/murad-it/iron-man)
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
@@ -65,7 +65,7 @@ I join projects where stability, delivery speed, and scalability are all critica
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
 - [LMS Manager](https://github.com/murad-it/lms-manager)
 - [BP Migration](https://github.com/murad-it/bp-migration)
-- [Section Export](https://github.com/murad-it/section-export)
+- [Iron Man](https://github.com/murad-it/iron-man)
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
