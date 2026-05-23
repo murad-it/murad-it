@@ -1,25 +1,25 @@
 # Мурад Тошпулотов
 
-Senior PHP/1C-Битрикс разработчик. Проектирую и развиваю backend-системы на D7, выстраиваю понятную архитектуру для команд и помогаю проектам расти без потери скорости и качества.
+Senior PHP/1C-Битрикс разработчик. Проектирую backend-системы на D7, выстраиваю понятную архитектуру и помогаю проектам расти без потери скорости и качества.
 
-### Что я даю проекту как инженер
+### Что я даю проекту
 
-Я включаюсь в проекты там, где важны одновременно три вещи: стабильность, скорость разработки и масштабируемость. Моя задача не просто закрыть тикет, а выстроить код и архитектуру так, чтобы система оставалась управляемой на длинной дистанции.
+Подключаюсь там, где критичны стабильность, скорость разработки и масштабируемость. Моя цель не просто закрыть задачу, а сделать кодовую базу управляемой на длинной дистанции.
 
-### Что делаю в проектах
+### Что делаю
 
 - Проектирую backend-архитектуру на 1C-Битрикс D7: модули, сервисный слой, границы ответственности.
-- Внедряю DDD и Vertical Slice там, где они реально снижают хаос и стоимость изменений.
-- Рефакторю legacy-код аккуратно, без остановки бизнеса и без «большого взрыва».
-- Настраиваю процесс оптимизации производительности: baseline -> узкое место -> решение -> проверка цифрами.
-- Провожу code review и поднимаю технический стандарт команды через практичные правила.
+- Внедряю DDD и Vertical Slice, когда это снижает хаос и цену изменений.
+- Рефакторю legacy без «большого взрыва» и без остановки бизнеса.
+- Веду оптимизацию производительности по процессу: baseline -> узкое место -> решение -> проверка цифрами.
+- Провожу code review и повышаю технический стандарт команды.
 
-### Как обычно строю работу
+### Как работаю
 
-- Сначала разбираю бизнес-контекст и реальные точки боли команды.
-- Фиксирую метрики и технические риски до изменений.
-- Двигаюсь короткими итерациями с предсказуемым результатом.
-- Документирую решения так, чтобы в проект можно было быстро влиться.
+- Сначала разбираю бизнес-контекст и реальные точки боли.
+- Фиксирую метрики и риски до изменений.
+- Двигаюсь короткими итерациями с измеримым результатом.
+- Документирую решения для быстрого онбординга и поддержки.
 
 ### Выбранные репозитории
 
@@ -30,7 +30,7 @@ Senior PHP/1C-Битрикс разработчик. Проектирую и р�
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
-### Технологии и ключевые темы
+### Технологии
 
 `1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
 
@@ -43,22 +43,22 @@ Senior PHP/1C-Битрикс разработчик. Проектирую и р�
 
 ### How I help engineering teams
 
-I work on projects where stability, delivery speed, and scalability matter at the same time. My goal is not only to ship features, but to build code and architecture that stay maintainable as the system grows.
+I join projects where stability, delivery speed, and scalability are all critical. My goal is not just to ship tasks, but to keep the codebase maintainable as the system grows.
 
 ### What I Do
 
-- Design backend architecture for 1C-Bitrix D7: modules, service layer, and clear responsibility boundaries.
-- Apply DDD and Vertical Slice patterns where they reduce complexity and maintenance cost.
-- Refactor legacy code safely without disrupting business delivery.
-- Run performance optimization as an engineering workflow: baseline -> bottleneck -> fix -> verify.
-- Perform code reviews and help teams raise quality standards in a practical way.
+- Design 1C-Bitrix D7 backend architecture: modules, service layer, and clear boundaries.
+- Apply DDD and Vertical Slice where they reduce complexity and maintenance cost.
+- Refactor legacy safely without disrupting business delivery.
+- Run performance optimization as a workflow: baseline -> bottleneck -> fix -> verify.
+- Perform code reviews and raise engineering standards.
 
-### How I Usually Work
+### How I Work
 
 - Start with business context and real technical pain points.
-- Capture metrics and risks before major changes.
+- Capture metrics and risks before changes.
 - Move in short iterations with measurable outcomes.
-- Document decisions so onboarding and maintenance stay fast.
+- Document decisions for fast onboarding and support.
 
 ### Selected Repositories
 
@@ -69,7 +69,7 @@ I work on projects where stability, delivery speed, and scalability matter at th
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
-### Technologies and Topics
+### Technologies
 
 `1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
 
