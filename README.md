@@ -2,42 +2,33 @@
 
 Senior PHP/1C-Битрикс разработчик. Проектирую и развиваю backend-системы на D7, выстраиваю понятную архитектуру для команд и помогаю проектам расти без потери скорости и качества.
 
-## На русском
-
 ### Что я даю проекту как инженер
 
-Я люблю сложные backend-задачи, но ещё больше люблю делать их понятными для команды. Обычно подключаюсь там, где уже есть нагрузка, legacy, интеграции и постоянные доработки, и нужно не просто «написать код», а выстроить систему, которая стабильно работает и спокойно развивается.
+Я включаюсь в проекты там, где важны одновременно три вещи: стабильность, скорость разработки и масштабируемость. Моя задача не просто закрыть тикет, а выстроить код и архитектуру так, чтобы система оставалась управляемой на длинной дистанции.
 
 ### Что делаю в проектах
 
 - Проектирую backend-архитектуру на 1C-Битрикс D7: модули, сервисный слой, границы ответственности.
-- Внедряю DDD и Vertical Slice там, где это действительно снижает хаос и цену изменений.
-- Рефакторю legacy-код аккуратно, без «большого взрыва» и без остановки бизнеса.
+- Внедряю DDD и Vertical Slice там, где они реально снижают хаос и стоимость изменений.
+- Рефакторю legacy-код аккуратно, без остановки бизнеса и без «большого взрыва».
 - Настраиваю процесс оптимизации производительности: baseline -> узкое место -> решение -> проверка цифрами.
-- Провожу code review и поднимаю технический уровень команды через практичные стандарты.
+- Провожу code review и поднимаю технический стандарт команды через практичные правила.
 
 ### Как обычно строю работу
 
-- Сначала разбираем контекст: где болит у бизнеса и где болит у разработки.
-- Фиксируем метрики и технические риски до изменений.
-- Двигаемся короткими итерациями, чтобы каждый шаг был предсказуемым.
-- Документируем решения так, чтобы в проект мог быстро зайти новый разработчик.
+- Сначала разбираю бизнес-контекст и реальные точки боли команды.
+- Фиксирую метрики и технические риски до изменений.
+- Двигаюсь короткими итерациями с предсказуемым результатом.
+- Документирую решения так, чтобы в проект можно было быстро влиться.
 
-### Где у меня больше всего практики
-
-- eCommerce и каталоги: цены, свойства, фильтрация, высокая нагрузка на чтение.
-- Корпоративные порталы и автоматизация бизнес-процессов.
-- Интеграции с внешними API, где важны стабильность и контроль отказов.
-
-### Рекомендованные репозитории
+### Выбранные репозитории
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
-- [LMS Manager](https://github.com/murad-it/lms-manager)
-- [Section Export](https://github.com/murad-it/section-export)
+- [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
 ### Технологии и ключевые темы
 
-`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization`
+`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
 
 ### Контакты
 
@@ -46,42 +37,33 @@ Senior PHP/1C-Битрикс разработчик. Проектирую и р�
 
 ---
 
-## In English
-
 ### How I help engineering teams
 
-I work on complex backend systems and turn them into maintainable, predictable codebases. I usually join projects where there is already production load, legacy complexity, and multiple integrations, and the team needs not only feature delivery, but also architectural clarity.
+I work on projects where stability, delivery speed, and scalability matter at the same time. My goal is not only to ship features, but to build code and architecture that stay maintainable as the system grows.
 
 ### What I Do
 
-- Design backend architecture for 1C-Bitrix D7: modules, service layer, and clean responsibility boundaries.
-- Apply DDD and Vertical Slice patterns where they reduce complexity and long-term maintenance cost.
+- Design backend architecture for 1C-Bitrix D7: modules, service layer, and clear responsibility boundaries.
+- Apply DDD and Vertical Slice patterns where they reduce complexity and maintenance cost.
 - Refactor legacy code safely without disrupting business delivery.
-- Run performance optimization as an engineering process: baseline -> bottleneck -> fix -> verify.
-- Perform code reviews and help teams improve technical standards in a practical way.
+- Run performance optimization as an engineering workflow: baseline -> bottleneck -> fix -> verify.
+- Perform code reviews and help teams raise quality standards in a practical way.
 
 ### How I Usually Work
 
-- Start with business and technical context, not assumptions.
-- Capture metrics and risks before any major change.
+- Start with business context and real technical pain points.
+- Capture metrics and risks before major changes.
 - Move in short iterations with measurable outcomes.
 - Document decisions so onboarding and maintenance stay fast.
 
-### Domain Focus
-
-- eCommerce and catalog-heavy systems (pricing, properties, read-intensive workloads).
-- Corporate portals and workflow automation.
-- External API integrations with reliability and failure-control focus.
-
-### Featured Repositories
+### Selected Repositories
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
-- [LMS Manager](https://github.com/murad-it/lms-manager)
-- [Section Export](https://github.com/murad-it/section-export)
+- [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
 ### Technologies and Topics
 
-`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization`
+`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
 
 ### Contacts
 
