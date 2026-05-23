@@ -2,25 +2,32 @@
 
 Senior PHP/1C-Битрикс разработчик. Проектирую и развиваю backend-системы на D7, выстраиваю понятную архитектуру для команд и помогаю проектам расти без потери скорости и качества.
 
-## RU
+## На русском
 
-### Позиционирование
+### Что я даю проекту как инженер
 
-Я работаю на стыке архитектуры, разработки и продуктового результата: от проектирования структуры модулей до оптимизации production-нагрузки и сопровождения сложных бизнес-процессов.
+Я люблю сложные backend-задачи, но ещё больше люблю делать их понятными для команды. Обычно подключаюсь там, где уже есть нагрузка, legacy, интеграции и постоянные доработки, и нужно не просто «написать код», а выстроить систему, которая стабильно работает и спокойно развивается.
 
 ### Что делаю в проектах
 
-- Проектирую backend-архитектуру на 1C-Битрикс D7 (модули, сервисный слой, границы ответственности).
-- Внедряю DDD/Vertical Slice подходы там, где они реально снижают стоимость изменений.
-- Рефакторю legacy-код в безопасном режиме: без «большого взрыва» и с сохранением бизнес-скорости.
-- Выстраиваю инженерный процесс по производительности: baseline -> узкое место -> решение -> контроль эффекта.
-- Провожу code review и помогаю командам поднимать технический стандарт.
+- Проектирую backend-архитектуру на 1C-Битрикс D7: модули, сервисный слой, границы ответственности.
+- Внедряю DDD и Vertical Slice там, где это действительно снижает хаос и цену изменений.
+- Рефакторю legacy-код аккуратно, без «большого взрыва» и без остановки бизнеса.
+- Настраиваю процесс оптимизации производительности: baseline -> узкое место -> решение -> проверка цифрами.
+- Провожу code review и поднимаю технический уровень команды через практичные стандарты.
 
-### Фокус по доменам
+### Как обычно строю работу
 
-- eCommerce и каталоги (цены, свойства, высокая нагрузка на чтение)
-- Корпоративные порталы и бизнес-процессы
-- Интеграции с внешними API и сервисами
+- Сначала разбираем контекст: где болит у бизнеса и где болит у разработки.
+- Фиксируем метрики и технические риски до изменений.
+- Двигаемся короткими итерациями, чтобы каждый шаг был предсказуемым.
+- Документируем решения так, чтобы в проект мог быстро зайти новый разработчик.
+
+### Где у меня больше всего практики
+
+- eCommerce и каталоги: цены, свойства, фильтрация, высокая нагрузка на чтение.
+- Корпоративные порталы и автоматизация бизнес-процессов.
+- Интеграции с внешними API, где важны стабильность и контроль отказов.
 
 ### Рекомендованные репозитории
 
@@ -39,25 +46,32 @@ Senior PHP/1C-Битрикс разработчик. Проектирую и р�
 
 ---
 
-## EN
+## In English
 
-### Positioning
+### How I help engineering teams
 
-I am a Senior PHP and 1C-Bitrix developer focused on backend architecture, maintainable D7 solutions, and measurable production performance improvements.
+I work on complex backend systems and turn them into maintainable, predictable codebases. I usually join projects where there is already production load, legacy complexity, and multiple integrations, and the team needs not only feature delivery, but also architectural clarity.
 
 ### What I Do
 
-- Design backend architecture for 1C-Bitrix D7 (modules, service layer, clear responsibility boundaries).
+- Design backend architecture for 1C-Bitrix D7: modules, service layer, and clean responsibility boundaries.
 - Apply DDD and Vertical Slice patterns where they reduce complexity and long-term maintenance cost.
 - Refactor legacy code safely without disrupting business delivery.
-- Run performance engineering as a process: baseline -> bottleneck -> fix -> verify impact.
-- Perform code reviews and help teams raise engineering quality standards.
+- Run performance optimization as an engineering process: baseline -> bottleneck -> fix -> verify.
+- Perform code reviews and help teams improve technical standards in a practical way.
+
+### How I Usually Work
+
+- Start with business and technical context, not assumptions.
+- Capture metrics and risks before any major change.
+- Move in short iterations with measurable outcomes.
+- Document decisions so onboarding and maintenance stay fast.
 
 ### Domain Focus
 
-- eCommerce and catalog-heavy systems (pricing, properties, read-intensive workloads)
-- Corporate portals and business workflow automation
-- External API integrations and reliability-focused backend flows
+- eCommerce and catalog-heavy systems (pricing, properties, read-intensive workloads).
+- Corporate portals and workflow automation.
+- External API integrations with reliability and failure-control focus.
 
 ### Featured Repositories
 
