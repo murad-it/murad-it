@@ -24,6 +24,10 @@ Senior PHP/1C-Битрикс разработчик. Проектирую и р�
 ### Выбранные репозитории
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
+- [LMS Manager](https://github.com/murad-it/lms-manager)
+- [BP Migration](https://github.com/murad-it/bp-migration)
+- [Section Export](https://github.com/murad-it/section-export)
+- [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
 ### Технологии и ключевые темы
@@ -59,6 +63,10 @@ I work on projects where stability, delivery speed, and scalability matter at th
 ### Selected Repositories
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
+- [LMS Manager](https://github.com/murad-it/lms-manager)
+- [BP Migration](https://github.com/murad-it/bp-migration)
+- [Section Export](https://github.com/murad-it/section-export)
+- [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
 ### Technologies and Topics
