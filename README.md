@@ -38,6 +38,14 @@ Senior PHP / 1C-Битрикс инженер.
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
+## Документация и статьи
+
+- [Bitrix Architecture Playbook (главная)](https://github.com/murad-it/bitrix-architecture-playbook)
+- [D7 ORM на production: runtime relations, JOIN, индексы](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-d7-orm-performance-runtime-relations-practical-guide-ru.md)
+- [Кеширование в 1C-Битрикс: полная production-система](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-caching-complete-practical-guide-ru.md)
+- [Агенты, cron и очереди в Bitrix: надежная фоновая обработка](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-agents-background-jobs-cron-queue-practical-guide-ru.md)
+- [10 системных ошибок производительности Bitrix](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-performance-optimization-10-mistakes-practical-guide-ru.md)
+
 ## Технологический стек
 
 `1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `mysql` `redis`
@@ -88,6 +96,14 @@ My goal is to turn that into an engineering system: clear architecture, predicta
 - [Iron Man](https://github.com/murad-it/iron-man)
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
+
+## Documentation and Articles
+
+- [Bitrix Architecture Playbook (main)](https://github.com/murad-it/bitrix-architecture-playbook)
+- [D7 ORM in production: runtime relations, JOIN strategy, indexes](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-d7-orm-performance-runtime-relations-practical-guide-ru.md)
+- [1C-Bitrix caching: complete production system](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-caching-complete-practical-guide-ru.md)
+- [Bitrix agents, cron, and queues: reliable background processing](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-agents-background-jobs-cron-queue-practical-guide-ru.md)
+- [10 systemic Bitrix performance mistakes](https://github.com/murad-it/bitrix-architecture-playbook/blob/main/bitrix-performance-optimization-10-mistakes-practical-guide-ru.md)
 
 ## Stack
 
