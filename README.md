@@ -1,27 +1,35 @@
 # Мурад Тошпулотов
 
-Senior PHP/1C-Битрикс разработчик. Проектирую backend-системы на D7, выстраиваю понятную архитектуру и помогаю проектам расти без потери скорости и качества.
+Senior PHP / 1C-Битрикс инженер.  
+Делаю так, чтобы проекты не просто работали сегодня, а выдерживали рост, нагрузку и частые релизы без хаоса.
 
-### Что я даю проекту
+## Чем я полезен бизнесу
 
-Подключаюсь там, где критичны стабильность, скорость разработки и масштабируемость. Моя цель не просто закрыть задачу, а сделать кодовую базу управляемой на длинной дистанции.
+Я подключаюсь там, где уже больно:
 
-### Что делаю
+- релизы стали рискованными,
+- скорость команды падает из-за legacy,
+- производительность «плавает» под нагрузкой,
+- каждое изменение стоит слишком дорого.
 
-- Проектирую backend-архитектуру на 1C-Битрикс D7: модули, сервисный слой, границы ответственности.
-- Внедряю DDD и Vertical Slice, когда это снижает хаос и цену изменений.
-- Рефакторю legacy без «большого взрыва» и без остановки бизнеса.
-- Веду оптимизацию производительности по процессу: baseline -> узкое место -> решение -> проверка цифрами.
-- Провожу code review и повышаю технический стандарт команды.
+Моя задача — превратить это в управляемую инженерную систему: с понятной архитектурой, предсказуемыми релизами и цифрами, а не догадками.
 
-### Как работаю
+## На чем фокус
 
-- Сначала разбираю бизнес-контекст и реальные точки боли.
-- Фиксирую метрики и риски до изменений.
-- Двигаюсь короткими итерациями с измеримым результатом.
-- Документирую решения для быстрого онбординга и поддержки.
+- Архитектура backend на 1C-Битрикс D7: модули, сервисный слой, границы ответственности.
+- Рефакторинг legacy без остановки разработки.
+- Производительность: от диагностики до устойчивых улучшений в production.
+- Фоновые процессы, очереди, интеграции, надежность обработки.
+- Code review и выстраивание технического стандарта команды.
 
-### Выбранные репозитории
+## Как я работаю
+
+1. Сначала разбираю контекст: где реальная боль, а где только симптом.
+2. Фиксирую baseline и ограничения (SLA, нагрузка, риски).
+3. Делаю изменения короткими итерациями с проверкой результата.
+4. Оставляю после себя не «магический код», а понятные правила и документацию.
+
+## Избранные репозитории
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
 - [LMS Manager](https://github.com/murad-it/lms-manager)
@@ -30,37 +38,49 @@ Senior PHP/1C-Битрикс разработчик. Проектирую backen
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
-### Технологии
+## Технологический стек
 
-`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
+`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `mysql` `redis`
 
-### Контакты
+## Контакты
 
 - Telegram: [@murad_pro_it](https://t.me/murad_pro_it)
 - Instagram: [@murad__it](https://www.instagram.com/murad__it/)
 
 ---
 
-### How I help engineering teams
+# Murad Toshpulotov
 
-I join projects where stability, delivery speed, and scalability are all critical. My goal is not just to ship tasks, but to keep the codebase maintainable as the system grows.
+Senior PHP / 1C-Bitrix engineer.  
+I help teams build systems that stay stable under growth, high load, and frequent releases.
 
-### What I Do
+## What I bring to projects
 
-- Design 1C-Bitrix D7 backend architecture: modules, service layer, and clear boundaries.
-- Apply DDD and Vertical Slice where they reduce complexity and maintenance cost.
-- Refactor legacy safely without disrupting business delivery.
-- Run performance optimization as a workflow: baseline -> bottleneck -> fix -> verify.
-- Perform code reviews and raise engineering standards.
+I usually join when a project is already under pressure:
 
-### How I Work
+- risky releases,
+- slowing delivery due to legacy code,
+- unstable production performance,
+- expensive and fragile changes.
 
-- Start with business context and real technical pain points.
-- Capture metrics and risks before changes.
-- Move in short iterations with measurable outcomes.
-- Document decisions for fast onboarding and support.
+My goal is to turn that into an engineering system: clear architecture, predictable delivery, and measurable outcomes.
 
-### Selected Repositories
+## Core focus areas
+
+- Backend architecture for 1C-Bitrix D7: modules, service layer, clear boundaries.
+- Legacy refactoring without stopping business delivery.
+- Performance optimization from baseline to verified production results.
+- Background jobs, queues, integrations, and processing reliability.
+- Code review and engineering standards across teams.
+
+## How I work
+
+1. Start from business context and real technical pain.
+2. Capture baseline, constraints, and risks.
+3. Deliver in short iterations with measurable checkpoints.
+4. Leave clear standards and documentation, not opaque "magic."
+
+## Selected repositories
 
 - [Bitrix Architecture Playbook](https://github.com/murad-it/bitrix-architecture-playbook)
 - [LMS Manager](https://github.com/murad-it/lms-manager)
@@ -69,11 +89,11 @@ I join projects where stability, delivery speed, and scalability are all critica
 - [Notebooks Store](https://github.com/murad-it/notebooks.store)
 - [Frontend Architecture Portfolio](https://github.com/murad-it/frontend-architecture-portfolio)
 
-### Technologies
+## Stack
 
-`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `frontend-architecture`
+`1c-bitrix` `bitrix-d7` `php` `backend` `ddd` `domain-driven-design` `vertical-slice` `software-architecture` `clean-code` `performance-optimization` `mysql` `redis`
 
-### Contacts
+## Contacts
 
 - Telegram: [@murad_pro_it](https://t.me/murad_pro_it)
 - Instagram: [@murad__it](https://www.instagram.com/murad__it/)
